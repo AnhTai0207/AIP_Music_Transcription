@@ -1,1 +1,1 @@
-This is AI Capstone Project
+This is an AI Capstone Project
